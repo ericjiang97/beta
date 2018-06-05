@@ -23,7 +23,8 @@ source 'https://rubygems.org'
 group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'github-pages', '~>186'
-  gem 'jekyll-admin'
+  gem 'jekyll-admin',
+  gem 'jekyll-mentions'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
