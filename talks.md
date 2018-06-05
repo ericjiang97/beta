@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Past Talks
+title: Tech Talks
 permalink: /talks/
 ---
 

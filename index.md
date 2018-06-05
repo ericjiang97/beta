@@ -14,7 +14,7 @@ permalink: /
     <h2 style="font-size: 24px; font-weight: 300">And I love tech</h2>
     <div>
         <a href="/projects">My Projects</a> - 
-        <a href="/talks">Past Talks</a> - 
+        <a href="/talks">Tech Talks</a> - 
         <a href="/about">About Me</a>
     </div>
     <a href="/assets/downloads/EricJiang-Resume18.pdf">Resume</a>
