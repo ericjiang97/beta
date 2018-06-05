@@ -11,7 +11,7 @@ permalink: /projects/
         <center>
         <h3>monPlan</h3> 
         <img src="https://img.shields.io/badge/license-Commercial-brightgreen.svg?longCache=true&style=for-the-badge"  style="height: 20px; margin: 40"/>
-        <img src="/assets/images/monplan.PNG" style="width:75%; margin: 20" />
+        <img src="/assets/images/monplan.png" style="width:75%; margin: 20" />
         <h5>Oct 2016 - Present</h5>
         <p>The Monash University Course Planning Tool For Students, By Students.</p>
         </center>
@@ -20,7 +20,7 @@ permalink: /projects/
         <center>
         <h3>GeckoDM</h3> 
         <img src="https://img.shields.io/badge/license-MIT-blue.svg?longCache=true&style=for-the-badge" style="height: 20px; margin: 20"/>
-        <img src="/assets/images/geckodm.PNG" style="width: 75%; margin: 20" />
+        <img src="/assets/images/geckodm.png" style="width: 75%; margin: 20" />
         <h5>April 2017 - Present</h5>
         <p>A Chrome Extension used to manage downloading lectures from Echo360.</p>
         </center>
