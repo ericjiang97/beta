@@ -8,4 +8,14 @@ permalink: /
 ---
 
 
-## This page is still under construction 🏗️. Please visit [about me](/about) 
+<center>
+    <img src="/assets/images/lorderikir.jpg" style="width: 200px; height:200px; border-radius: 100%"/>
+    <h1 style="font-size: 30px; font-weight: 300">👋 Hi I'm Eric</h1>
+    <h2 style="font-size: 24px; font-weight: 300">And I love tech</h2>
+    <div>
+        <a href="/projects">My Projects</a> - 
+        <a href="/talks">Past Talks</a> - 
+        <a href="/about">About Me</a>
+    </div>
+    <a href="/assets/downloads/EricJiang-Resume18.pdf">Resume</a>
+</center>
