@@ -14,9 +14,12 @@ permalink: /about/
 
 #### Founder of [monPlan](https://monplan.apps.monash.edu)  <br/> Co-Founder of [MARIE.js](https://marie-js.github.io/MARIE.js/) , [geckoDM](https://geckodm.github.io), FutureYou@Monash 
 
+
+You can download my resume [here](/assets/downloads/EricJiang-Resume18.pdf")
+
 I really love development in general as well and am very passionate about DevOps, and the security, service delivery and maintainability of any project. 
 
-I am currently looking to Major in network security and minor in computer science.
+I am currently looking to Major in Computer Networks and Security as well as Minor in computer science.
 
 One of the few reasons I love coding is that I want to change the world. Especially making education among everyone easier to access, but also make it more enjoyable and fun. 
 
