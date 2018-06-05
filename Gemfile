@@ -25,6 +25,7 @@ group :jekyll_plugins do
   gem 'github-pages', '~>186'
   gem 'jekyll-admin'
   gem 'jekyll-mentions'
+  gem 'jekyll-toc'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
