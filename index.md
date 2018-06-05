@@ -9,3 +9,6 @@ permalink: /
 
 
 ## This page is still under construction 🏗️. Please visit [about me](/about) 
+
+#### Twitter Posts
+{% twitter https://twitter.com/lorderikir/timelines/1003871313209974784 widget_type=grid maxwidth=450 limit=5 %}
