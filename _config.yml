@@ -51,3 +51,9 @@ defaults:
       path: "assets/images"
     values:
       image: true
+
+header_pages:
+  - index.md
+  - projects.md
+  - talks.md
+  - about.md
