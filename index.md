@@ -5,4 +5,6 @@
 layout: home
 ---
 
-# This page is still under construction 🏗️. Please visit [about me](/about) 
+# Home
+
+## This page is still under construction 🏗️. Please visit [about me](/about) 
