@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <center>
-    <img src="/assets/images/lorderikir.jpg" style="width: 250px; height:250px; border-radius: 100%"/>
+    <img src="/assets/images/unihackmini.jpg" style="width: 75%"/>
 </center>
 
 ## Hi there!

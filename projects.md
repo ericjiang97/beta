@@ -4,6 +4,8 @@ title: Projects
 permalink: /projects/
 ---
 
+I build and work on a lot of projects, here's some of them:
+
 ## Current Projects
 
 <div style="display: flex; flex-wrap: wrap">
