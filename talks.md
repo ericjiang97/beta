@@ -4,12 +4,12 @@ title: Tech Talks
 permalink: /talks/
 ---
 
-<div style="display: flex; flex-wrap: wrap">
+<div style="display: flex; flex-wrap: wrap; width: 100%">
     {% for talk in site.data.talks %}
-        <div style="flex: 1 0 40%; margin: 10px">
+        <div style="max-width: 350px; margin: 10px">
             <center>
-                <a href="{{talk.url}}" target="_blank"><h3> {{ talk.title }}</h3></a>
-                <img src="{{talk.img}}" style="width: 75%" /> <br />
+                <a href="{{ talk.url }}" target="_blank"><h3> {{ talk.title }}</h3></a>
+                <img src="{{ talk.img }}" style="width: 75%" /> <br />
                 <b>Date:</b> {{talk.date}} <br/>
                 <b>Presenter(s):</b> {{talk.presenters}}<br/>
                 <b>Location: </b> {{talk.location}}<br/>
